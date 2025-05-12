@@ -26,10 +26,7 @@ Analyze Trends: Identify trends in temperature, CO2 emissions, and other climate
 Impact Assessment: Assess the correlation between climate change indicators and extreme weather events.
 Policy Recommendations: Provide insights for policymakers on the importance of renewable energy and forest conservation.
 Technologies Used
-Databricks(Python and SQL), PowerBI for interactive visualizations and Calculations(DAX)
-Jupyter Notebooks for interactive analysis
-Git for version control
-Getting Started
-To get started with this project, clone the repository and install the necessary dependencies:
+Databricks(Python and SQL), PowerBI for interactive visualizations and Calculations(DAX).
+
 
 
