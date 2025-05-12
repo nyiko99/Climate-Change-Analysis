@@ -26,20 +26,10 @@ Analyze Trends: Identify trends in temperature, CO2 emissions, and other climate
 Impact Assessment: Assess the correlation between climate change indicators and extreme weather events.
 Policy Recommendations: Provide insights for policymakers on the importance of renewable energy and forest conservation.
 Technologies Used
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+Databricks(Python and SQL), PowerBI for interactive visualizations and Calculations(DAX)
 Jupyter Notebooks for interactive analysis
 Git for version control
 Getting Started
 To get started with this project, clone the repository and install the necessary dependencies:
 
-bash
 
-Copy
-git clone https://github.com/yourusername/climate-change-analysis.git
-cd climate-change-analysis
-pip install -r requirements.txt
-Contribution
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
