@@ -1,8 +1,11 @@
 # Climate-Change-Analysis
 
 Climate Change Project Overview
+
 Project Title: Climate Change Impact Analysis
+
 Overview
+
 This project aims to analyze the impact of climate change on various countries by examining key indicators such as average temperature, CO2 emissions, sea level rise, and more. The dataset used for this analysis includes comprehensive information about each country's climate-related metrics.
 
 Dataset Features
